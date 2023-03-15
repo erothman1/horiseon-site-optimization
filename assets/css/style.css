@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* background color of entire page is light grey(#d9dcd6) */
 body {
     background-color: #d9dcd6;
 }
 
+/* 20px of space around the content in the element, fonts listed below are used, backrgound color is a slate blue(#2a607c), font color is white(#ffffff) */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* "Hori", "seo", and "n" are 48px and elements are displayed horizontally  */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* "seo" in "Horiseon" is colored light grey(#d9dcd6) */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* 15px of padding on top of element and 20px of margin on the right; elements are floated to the right, fonts listed below are used, and font size is 20px */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +37,29 @@ body {
     font-size: 20px;
 }
 
+/* there is no set marker for list item element */
 .header section ul {
     list-style-type: none;
 }
 
+/* list is shown horizontally and each item of list is set 25px left of margin */
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* font color is white(#ffffff) */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* font size is 16px */
 p {
     font-size: 16px;
 }
 
+/* image is 800px high and takes up entire width with a 25px margin on the bottom */
 .hero {
     height: 800px;
     width: 100%;
