@@ -10,7 +10,7 @@ During this project, I learned the importance of semantic HTML elements and how 
 
 ## Usage
 
-This is the link to the completed application: ADD LINK!!!!
+This is the link to the completed application: https://erothman1.github.io/horiseon-site-optimization/
 
 This is a screenshot of the completed application:
 ![Horiseon Web Application Screenshot](./assets/images/screenshot-horiseon-web-application.png)
