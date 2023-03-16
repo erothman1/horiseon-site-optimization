@@ -1,3 +1,4 @@
+/* universal selector is applied to all possible elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -43,13 +44,13 @@ header section ul li {
     margin-left: 25px;
 }
 
-/* font color is white(#ffffff) */
+/* font color of anchor elements are white(#ffffff) */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* font size is 16px */
+/* font size is 16px of paragraph elements*/
 p {
     font-size: 16px;
 }
@@ -63,12 +64,14 @@ p {
     background-position: center;
 }
 
+/* elements in this class have a width of 75% of the page with a margin of 20px on the left, and have a display type of inline-block*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* describes dimensions of box around elements in these classes along with the classes having a background color of slate blue(#0072bb), a font color of white(#ffffff), and uses the font family below */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -78,25 +81,30 @@ p {
     color: #ffffff;
 }
 
+/* images in this class have a maximum height of 200px */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
     max-height: 200px;
 }
 
+/* font size of elements in h2 are 36px with a margin of 36px on the bottom */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* images assigned to this class float to the left and have a margin of 25px on the right */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* images assigned to this class float to the right and have a margin of 25px on the left */
 .float-right {
     float: right;
     margin-left: 25px;
 } 
 
+/* describes the dimensions of the elements in this box with a background color of blue(#2589bd) along with using the font family below */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -108,22 +116,26 @@ p {
     background-color: #2589bd;
 }
 
+/* font color is white(#ffffff) with a margin on the bottom of 32px */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* the text is centered in the box with a margin of 10px on the bottom */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* image assigned to these classes have a margin of 10px on all sides, a maximum width of 150px, and a block display type */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* elements in the footer use the font family below, are in the center of the page, and have a font size of 20px */
 footer {
     padding: 30px;
     clear: both;
