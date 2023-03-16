@@ -17,5 +17,5 @@ This is a screenshot of the completed application:
 
 ## How to Contribute
 
-For information on how to contribute to this project, please email me at erothman@tulane.edu!
+For information on how to contribute to this project, please email me at elva.rothman.developer@gmail.com!
 
