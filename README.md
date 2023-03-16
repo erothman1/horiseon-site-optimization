@@ -2,52 +2,20 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I began this project in order to make the Horiseon Social Solution Services website more accessible for people with disabilities. Before I started working on this project, the html contained many div elements, which do not allow for seamless use of the technology and transmission of information for people who use assistive technologies, such as video captions, screen readers, and braille keyboards. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In order to solve that, I changed every div element to a semantic HTML element. Along with this, I increased the efficiency and sustainability of the HTML and CSS code by consolidating the CSS and organizing it to follow the semantic structure of the HTML. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
+During this project, I learned the importance of semantic HTML elements and how to keep my CSS and HTML files in sync as I make changes. I also learned how to properly consolidate CSS styles without breaking the code and how to leave code cleaner than when you found it.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This is the link to the completed application: ADD LINK!!!!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
+This is a screenshot of the completed application:
+![Horiseon Web Application Screenshot](./assets/images/screenshot-horiseon-web-application.png)
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+For information on how to contribute to this project, please email me at erothman@tulane.edu!
 
